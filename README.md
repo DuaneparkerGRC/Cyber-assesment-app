@@ -1,48 +1,33 @@
 # Cybermachan — Baseline Cyber Assessment
-
-**Created by Dulara Paranawidana — _Cybermachan_**
-
----
-
-## Project Summary
-
-I began with a simple **Google Form questionnaire** to baseline the **security posture** of my SME and startup clients at the start of each engagement. From those assessments, I personally researched and compiled a **detailed remediation playbook** that maps common environments (devices, operating systems, cloud suites, websites) to **clear, basic controls** and **step-by-step actions**.
-
-To scale this approach and make it shareable, I rebuilt the workflow as a **web application (Cybermachan)** using an **AI-powered platform**. The app now:
-
-- Runs a **plain-language questionnaire** (Devices → Website → Baseline controls).  
-- Computes a **0–100 security posture score** based on responses.  
-- **Auto-extracts** the relevant parts of my playbook to generate a **unique, step-by-step remediation guide** (downloadable Word/PDF).  
-- Enables a **free self-assessment** for anyone—GRC consultants, startups, and SMEs—without technical jargon.
-
-### Method & Alignment
-
-The questionnaire and remediation playbook are aligned with the **ACSC Essential Eight** (baseline intent) and **broadly support** the:
-- **NIST Cybersecurity Framework** — _Identify_ & _Protect_ functions  
-- **ISO/IEC 27001** — Annex A baseline controls
-
-The design emphasizes **plain language** and practical execution with priority buckets: **Today / This Week / Ongoing**. Core focus areas include MFA, application & OS patching cadence, backups **with restore testing**, encryption, admin-privilege separation, endpoint protection, and safe website practices (HTTPS, WAF/bot protection, privacy notice, payment security).
-
-### Why It Matters
-
-- Gives small teams a **fast, < 60-second** way to see where they stand.  
-- Produces **actionable, tailored guidance** they can implement immediately.  
-- Standardizes consulting intake while making a **community tool** freely available through **Cybermachan**.
+**By Dulara Paranawidana — Professional GRC Specialist with Technical Depth**
 
 ---
 
-## Privacy
+## What this project is
+A **fast, plain-language cybersecurity baseline** built for SMEs, startups, and consultants.  
+Users complete a **<60-second questionnaire** and receive:
+- A **0–100 security posture score**
+- A **downloadable, step-by-step remediation plan** (Word/PDF)
+- Clear priorities: **Today / This Week / Ongoing**
 
-Cybermachan tools are designed for **anonymous use**. **No assessment data is retained** on the platform. A minimal, optional form may be presented before downloading the report, with a clear **no-spam** pledge.
+**Standards alignment:** Designed to align with **ACSC Essential Eight (baseline intent)** and to **support** **NIST CSF (Identify/Protect)** and **ISO/IEC 27001 Annex A** fundamentals.
+
+---
+
+## Why I built it (GRC value)
+Most small teams ask, *“Where do we start?”*  
+As a **GRC practitioner**, I needed a consistent, evidence-based **intake and triage** that:
+- Translates frameworks into **business-ready controls**
+- Produces **prioritized, actionable work** (not just policy text)
+- Works for **non-technical stakeholders** while satisfying **assurance** needs
+
+This project standardizes my consulting kickoff, reduces time-to-value, and makes a **baseline tool** freely available to the community.
 
 ---
 
-## Get Started
-
-1. Complete the **1-minute questionnaire** (Devices → Website → Baseline).  
-2. Receive a **0–100 score** and prioritized actions.  
-3. Download your **step-by-step remediation plan** (Word/PDF).
-
-> Looking for feedback—what helped, what to improve, and what you’d like to see next.
-
----
+## How I approached it (methods + technical leadership)
+1. **Control Design & Mapping**  
+   - Converted E8/NIST/ISO guidance into **plain questions** and **minimum viable controls** across devices, websites, and baseline operations.
+2. **Rules Engine & Scoring**  
+   - Built a **data-driven mapping** (answers → remediation bundles) and a transparent **0–100** scoring model with heavier weights on MFA, patching, backups+restore, admin separation, encryption, and website protections.
+3. **Document Automation**  

@@ -85,4 +85,4 @@ This project standardizes my consulting kickoff, reduces time-to-value, and make
 
 ---
 
-**Created by Dulara Paranawidana — _Cybermachan_**
+**Created by Dulara Paranawidana - _Cybermachan_**

@@ -78,6 +78,11 @@ This project standardizes my consulting kickoff, reduces time-to-value, and make
 3. Download the **step-by-step remediation plan** (Word/PDF).  
 4. Share feedback to shape the next release.
 
+## Click this link to try it yourself
+
+👉 [cybermachan.online](https://cybermachan.online)
+
+
 ---
 
 **Created by Dulara Paranawidana — _Cybermachan_**

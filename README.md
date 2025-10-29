@@ -1,5 +1,5 @@
-# Cybermachan — Baseline Cyber Assessment
-**By Dulara Paranawidana — Professional GRC Specialist with Technical Depth**
+# Cybermachan - Baseline Cyber Assessment
+**By Dulara Paranawidana - Professional GRC Specialist with Technical Depth**
 
 ---
 
